@@ -61,6 +61,7 @@ paths:
           description: OK
       tags:
       - market data
+      - csv
 definitions: []
 x-collection-name: Quandl
 x-streamrank:
