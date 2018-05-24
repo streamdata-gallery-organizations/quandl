@@ -1,17 +1,25 @@
 ---
-name: Streadata.io API Gallery - Quandl
-description: This is a repository of  APIs, self-contained as a Github repository,
-  with HTML and YAML representations of the APIs and their surrounding operations.
-image: http://template.streamdata.gallery/assets/quandl.png
-created: "2018-02-24"
-modified: "2018-05-22"
-url: http://quandl.streamdata.gallery/apis.json
+name: Quandl
+x-slug: quandl
+description: Quandl delivers financial data to users in the format they want. Access
+  thousands of databases via the Quandl API or in your tool of choice.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26418-blog-quandl-com.jpg
+x-kinRank: "7"
+x-alexaRank: "42872"
+tags: Quandl
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/quandl/master/_listings/quandl/apis.md
 specificationVersion: "0.14"
 apis: []
-tags: Quandl
-include:
-- name: Quandl
-  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/quandl/master/_listings/quandl/apis.yaml
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quandl
+- type: x-twitter
+  url: https://twitter.com/quandl
+- type: x-website
+  url: https://blog.quandl.com
+include: []
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
