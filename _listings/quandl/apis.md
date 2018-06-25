@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quan
 x-kinRank: "8"
 x-alexaRank: "53781"
 tags: Quandl
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/quandl/master/_listings/quandl/apis.md
 specificationVersion: "0.14"
 apis:
