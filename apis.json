@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Quandl",
+	"description": "This is a repository of quandl APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/quandl.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://quandl.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Quandl",
+			"x-api-slug": "quandl",
+			"description": "Quandl delivers financial data to users in the format they want. Access thousands of databases via the Quandl API or in your tool of choice.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg",
+			"humanURL": "http://quandl.com",
+			"baseURL": "https://www.quandl.com//api/v3",
+			"tags": "Quandl",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/quandl/master/_listings/quandl/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Quandl",
+	"include": [
+		{
+			"name": "Quandl",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/quandl/master/_listings/quandl/apis.yaml"
+		}
+	]
+}
